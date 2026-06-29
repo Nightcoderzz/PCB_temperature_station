@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"33-16012020-062489";"";
+"REFERENCE";"STM32F030C8T6";"";
+"TraceParts.PartTitle";"Integrated Circuit Quad Flat Packages - STM32F030C8T6, STM32F030CCT6, STM32F103C8T6, STM32F103C8T6TR, STM32F103CBT6";"";
+"TraceParts.InstanceId";"33-16012020-062489766MU9CORDNF1YYQ2K8GSBYJ5";"";
+"DESIGN";"Integrated Circuit Quad Flat Packages - STM32F030C8T6";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"STMicroelectronics";"";
+"TraceParts.PartVersion";"1.1.6";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"STMICROELECTRONICS:33-16012020-062489";"";

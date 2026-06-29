@@ -1,0 +1,15 @@
+# Altium generated output and cache
+History/
+__Previews/
+Project Logs*/
+Project Outputs*/
+*.PrjPcbStructure
+
+# Altium temporary / lock files
+~*
+*.bak
+*.~*
+
+# OS clutter
+Thumbs.db
+.DS_Store
