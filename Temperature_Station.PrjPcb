@@ -101,7 +101,7 @@ GenerateClassCluster=0
 DocumentUniqueId=QUXHYLUF
 
 [Document4]
-DocumentPath=StationV1.PcbDoc
+DocumentPath=PCB1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -115,9 +115,13 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=HWVMDCGJ
+DocumentUniqueId=MYFEOVRD
 
 [GeneratedDocument1]
+DocumentPath=Project Outputs for Temperature_Station\Design Rule Check - PCB_V1.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
 DocumentPath=Project Outputs for Temperature_Station\Temperature_Station.NET
 DItemRevisionGUID=
 
@@ -1182,8 +1186,8 @@ ComponentUpdate8=0
 ComponentIsDeviceSheet8=0
 ComponentLibIdentifierKind9=Library Name And Type
 ComponentLibraryIdentifier9=Project_LIB.SchLib
-ComponentDesignItemID9=STM32C31C4T6
-ComponentSymbolReference9=STM32C31C4T6
+ComponentDesignItemID9=STM32C031C4T6
+ComponentSymbolReference9=STM32C031C4T6
 ComponentUpdate9=0
 ComponentIsDeviceSheet9=0
 ComponentLibIdentifierKind10=Library Name And Type
@@ -1323,10 +1327,10 @@ ModelType6=PCBLIB
 ModelName6=HC-12
 ModelUpdate6=1
 ModelType7=PCBLIB
-ModelName7=Model Name
+ModelName7=Prog_header
 ModelUpdate7=1
 ModelType8=PCBLIB
-ModelName8=Prog_header
+ModelName8=QFP50P900X900X160-48N
 ModelUpdate8=1
 ModelType9=PCBLIB
 ModelName9=RES 0603_1608
